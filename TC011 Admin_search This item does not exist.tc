@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC011 Admin_search This item does not exist</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c2eed720-baa8-485b-ac95-230199d0b50d</testCaseGuid>
+</TestCaseEntity>
